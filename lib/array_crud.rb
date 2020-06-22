@@ -3,7 +3,7 @@ def create_an_empty_array
 end
 
 def create_an_array
-  famous_icecream_flavor =["chocolate","vanilla","strawberry","mint chocolate"]
+  famous_icecream_flavor = ["chocolate","vanilla","strawberry","mint chocolate"]
 end
 
 def add_element_to_end_of_array(array, element)
