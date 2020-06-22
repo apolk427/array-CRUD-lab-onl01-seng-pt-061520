@@ -1,9 +1,9 @@
 def create_an_empty_array
-  empty_array = []
+create_an_empty_array = []
 end
 
 def create_an_array
-  famous_icecream_flavor = ["chocolate","vanilla","strawberry","mint chocolate"]
+create_an_array = ["chocolate","vanilla","strawberry","mint chocolate"]
 end
 
 def add_element_to_end_of_array(array, element)
